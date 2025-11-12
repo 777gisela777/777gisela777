@@ -1,36 +1,49 @@
-## Hi there 👋
+## Welcome to my profile! :hatched_chick:
 
+### Get to know me...
 
+- My name is **Gisela** and I'm a Barcelona-based **Web Development** student.
 
+- I like **ducks**, **videogames** and **learning** new things.
 
-<!--
-**777gisela777/777gisela777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am currenty looking for **new opportunities and experiences** that can help me **grow** as a programmer.
 
-Here are some ideas to get you started:
+- I have a **professional background** in the **Tourism** industry.
 
-I'm a Web Development student.
+## Tech tools :desktop_computer:
 
-## Welcome to my profile!
+### Programming & Markup Languages
 
-## Get to know me a little bit
+- Kotlin
 
-## Tech tools & Programming languages
+- HTML
 
-## Language skills
+- CSS
 
-## Other skills
+### Other tools
 
-## My job experience
+- Microsoft Office Suite (Word, PowerPoint and Excel)
 
-## My projects
+- Adobe Suite (Premiere, Photoshop and After Effects
 
+- Google Workspace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Amadeus
+
+- PMS (Hoteloplus, Opera Cloud)
+
+- Moodle 
+
+## Language skills :speech_balloon:
+
+- :es: Spanish & Catalan (native)
+
+- :gb: English (high)
+
+- :it: Italian (intermediate)
+
+- :cn: Mandarin Chinese (beginner)
+
+- :jp: Japanese (beginner)
+
+- :fr: French (beginner)
