@@ -1,9 +1,29 @@
 ## Hi there 👋
 
+
+
+
 <!--
 **777gisela777/777gisela777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+I'm a Web Development student.
+
+## Welcome to my profile!
+
+## Get to know me a little bit
+
+## Tech tools & Programming languages
+
+## Language skills
+
+## Other skills
+
+## My job experience
+
+## My projects
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
