@@ -1,49 +1,67 @@
-## Welcome to my profile! :hatched_chick:
+<div align="center">
 
-### Get to know me...
+# I'm Gisela! 
 
-- My name is **Gisela** and I'm a Barcelona-based **Web Development** student.
+**`Web Development Student · Barcelona`**
 
-- I like **ducks**, **videogames** and **learning** new things.
+*Coding and language learning enthusiast!*
 
-- I am currenty looking for **new opportunities and experiences** that can help me **grow** as a programmer.
+</div>
 
-- I have a **professional background** in the **Tourism** industry.
+---
 
-## Tech tools :desktop_computer:
+### About me!
 
-### Programming & Markup Languages
+- 🎓 Currently studying **Web Development** in Barcelona
+- 🏨 I have a professional background in the **Tourism industry** (as a hotel receptionist & tourist guide)
+- 🔍 I'm actively looking for **new opportunities** to grow as a programmer
+- 🦆 Big fan of ducks, **videogames** and **language learning**
 
-- Kotlin
+---
 
-- HTML
+### Tech tools
 
-- CSS
+**Programming & Markup**
 
-### Other tools
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
-- Microsoft Office Suite (Word, PowerPoint and Excel)
+**Other tools I work with**
 
-- Adobe Suite (Premiere, Photoshop and After Effects
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Amadeus](https://img.shields.io/badge/Amadeus-004B87?style=for-the-badge)
+![Hoteloplus](https://img.shields.io/badge/Hoteloplus-2C7BB6?style=for-the-badge)
+![Opera Cloud](https://img.shields.io/badge/Opera%20Cloud-F80000?style=for-the-badge)
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 
-- Google Workspace
+---
 
-- Amadeus
+### Languages
 
-- PMS (Hoteloplus, Opera Cloud)
+| Language | Level |
+|----------|-------|
+| 🇪🇸 Spanish & Catalan | Native |
+| 🇬🇧 English | High |
+| 🇮🇹 Italian | Intermediate |
+| 🇨🇳 Mandarin Chinese | Beginner |
+| 🇯🇵 Japanese | Beginner |
+| 🇫🇷 French | Beginner |
 
-- Moodle 
+---
 
-## Language skills :speech_balloon:
+### Connect with me!
 
-- :es: Spanish & Catalan (native)
+<div align="center">
 
-- :gb: English (high)
+*Open to internships, junior roles and any experience that can help me improve my skills and grow!*
 
-- :it: Italian (intermediate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisela-c-dev/)
 
-- :cn: Mandarin Chinese (beginner)
+</div>
 
-- :jp: Japanese (beginner)
-
-- :fr: French (beginner)
+---
